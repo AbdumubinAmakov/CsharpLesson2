@@ -32,14 +32,16 @@ Sum(a,b,c,d);*/
 int n=int.Parse(Console.ReadLine());
 Reverse(n);*/
 
+
+
 //Task4
 //Section1
-void PrintStars(int n){
-    for(int i=n; i>0; i--){
-    Console.Write('*');
-    }
-    Console.WriteLine();
-}
+//void PrintStars(int n){
+//    for(int i=n; i>0; i--){
+//    Console.Write('*');
+//    }
+//    Console.WriteLine();
+//}
 // int a=int.Parse(Console.ReadLine()!);
 //PrintStars(a);
 //Section2
@@ -56,14 +58,24 @@ void PrintStars(int n){
 // PrintSquare(a);
 
 //Section3
-void PrintRectangle(int width, int height)
-{
-    for (int i = 1; i <= height; i++)
-    {
-         PrintStars(width);
-    }
-}
-int width=int.Parse(Console.ReadLine());
-int height=int.Parse(Console.ReadLine());
-PrintRectangle(width, height);
+// void PrintRectangle(int width, int height)
+// {
+//     for (int i = 1; i <= height; i++)
+//     {
+//          PrintStars(width);
+//     }
+// }
+// int width=int.Parse(Console.ReadLine());
+// int height=int.Parse(Console.ReadLine());
+// PrintRectangle(width, height);
+
+//Section4
+// void PrintTriangle(int size){
+//     for (int i = 1; i <=size; i++)
+//     {
+//         PrintStars(i);
+//     }
+// }
+// int size=int.Parse(Console.ReadLine());
+// PrintTriangle(size);
 

@@ -26,3 +26,4 @@ D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net
 D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.pdb
 D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.genruntimeconfig.cache
 D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\ref\helloapp.dll
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.sourcelink.json
