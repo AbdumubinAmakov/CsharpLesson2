@@ -1,0 +1,28 @@
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\bin\Debug\net9.0\helloapp.exe
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\bin\Debug\net9.0\helloapp.deps.json
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\bin\Debug\net9.0\helloapp.runtimeconfig.json
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\bin\Debug\net9.0\helloapp.dll
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\bin\Debug\net9.0\helloapp.pdb
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\obj\Debug\net9.0\helloapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfoInputs.cache
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfo.cs
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\obj\Debug\net9.0\helloapp.csproj.CoreCompileInputs.cache
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\obj\Debug\net9.0\helloapp.dll
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\obj\Debug\net9.0\refint\helloapp.dll
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\obj\Debug\net9.0\helloapp.pdb
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\obj\Debug\net9.0\helloapp.genruntimeconfig.cache
+D:\2025-2026\Softclub\Курси C#\Моҳи 1-ум\C#Lesson2\helloapp\obj\Debug\net9.0\ref\helloapp.dll
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\bin\Debug\net9.0\helloapp.exe
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\bin\Debug\net9.0\helloapp.deps.json
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\bin\Debug\net9.0\helloapp.runtimeconfig.json
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\bin\Debug\net9.0\helloapp.dll
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\bin\Debug\net9.0\helloapp.pdb
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfoInputs.cache
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.AssemblyInfo.cs
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.csproj.CoreCompileInputs.cache
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.dll
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\refint\helloapp.dll
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.pdb
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\helloapp.genruntimeconfig.cache
+D:\2025-2026\Softclub\Kursiasharp\Mohiavval\CsharpLesson2\helloapp\obj\Debug\net9.0\ref\helloapp.dll
